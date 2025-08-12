@@ -1,5 +1,9 @@
 # 🚨 HackDeScience – Women & Child Safety Platform  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14b53637-6c69-4750-8cba-7c8f98b9c678" alt="HackDeScience Banner" width="800"/>
+</p>
+
 > **Built in a 36-hour Hackathon – Ojass ’24, NIT Jamshedpur**  
 > Team: **TechTitans** 🛡️ | Category: **Women & Child Safety**  
 
